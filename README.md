@@ -16,4 +16,5 @@ This contains DSA questions that I solve...
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/adityakumarx/DSA_Practice/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/adityakumarx/DSA_Practice/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
