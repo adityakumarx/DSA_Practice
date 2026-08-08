@@ -15,6 +15,11 @@ This contains DSA questions that I solve...
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/adityakumarx/DSA_Practice/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/adityakumarx/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adityakumarx/DSA_Practice/tree/master/0485-max-consecutive-ones) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/adityakumarx/DSA_Practice/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
