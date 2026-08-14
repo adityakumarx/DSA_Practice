@@ -9,6 +9,7 @@ This contains DSA questions that I solve...
 | [0075-sort-colors](https://github.com/adityakumarx/DSA_Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/adityakumarx/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/adityakumarx/DSA_Practice/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adityakumarx/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ This contains DSA questions that I solve...
 | [0169-majority-element](https://github.com/adityakumarx/DSA_Practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/adityakumarx/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adityakumarx/DSA_Practice/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adityakumarx/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -64,4 +66,8 @@ This contains DSA questions that I solve...
 | ------- |
 | [0053-maximum-subarray](https://github.com/adityakumarx/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityakumarx/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adityakumarx/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
