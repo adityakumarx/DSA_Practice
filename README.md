@@ -20,6 +20,7 @@ This contains DSA questions that I solve...
 | ------- |
 | [0001-two-sum](https://github.com/adityakumarx/DSA_Practice/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/adityakumarx/DSA_Practice/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/adityakumarx/DSA_Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/adityakumarx/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/adityakumarx/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/adityakumarx/DSA_Practice/tree/master/0075-sort-colors) |
@@ -83,5 +84,10 @@ This contains DSA questions that I solve...
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/adityakumarx/DSA_Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/adityakumarx/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/adityakumarx/DSA_Practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
