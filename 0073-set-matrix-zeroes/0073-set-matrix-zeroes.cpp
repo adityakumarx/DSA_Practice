@@ -2,27 +2,73 @@ class Solution {
 public:
     void setZeroes(vector<vector<int>>& arr)
 {
-	unordered_set<size_t> row;
-	unordered_set<size_t> column;
-	for (size_t i{ 0 };i < size(arr);++i)
+	if (arr.empty())
+		return;
+	size_t a{ arr.size() };
+	size_t b{ arr[0].size() };
+	bool rowFlag{ false };
+	bool columnFlag{ false };
+	bool primeFlag{ false };
+	for (size_t i{ 0 };i < a;++i)
 	{
-		for (size_t j{ 0 };j < size(arr[i]);++j)
+		if (arr[i][0] == 0)
+			rowFlag = true;
+	}
+	for (size_t j{ 0 };j < b;++j)
+	{
+		if (arr[0][j] == 0)
+			columnFlag = true;
+	}
+	if (arr[0][0] == 0)
+		primeFlag = 0;
+	for (size_t i{ 1 };i < a;++i)
+	{
+		for (size_t j{ 1 };j < b;++j)
 		{
 			if (arr[i][j] == 0)
 			{
-				row.insert(i);
-				column.insert(j);
+				arr[0][j] = 0;
+				arr[i][0] = 0;
 			}
 		}
 	}
-	for (size_t i{ 0 };i < size(arr);++i)
+	for (size_t i{ 1 };i < a;++i)
 	{
-		for (size_t j{ 0 };j < size(arr[i]);++j)
+		for (size_t j{ 1 };j < b;++j)
 		{
-			if (row.contains(i))
+			if (arr[i][0] == 0)
+			{
 				arr[i][j] = 0;
-			else if (column.contains(j))
+			}
+			if (arr[0][j] == 0)
+			{
 				arr[i][j] = 0;
+			}
+		}
+	}
+	if (rowFlag)
+	{
+		for (size_t i{ 0 };i < a;++i)
+		{
+			arr[i][0] = 0;
+		}
+	}
+	if (columnFlag)
+	{
+		for (size_t j{ 0 };j < b;++j)
+		{
+			arr[0][j] = 0;
+		}
+	}
+	if (primeFlag)
+	{
+		for (size_t j{ 0 };j < b;++j)
+		{
+			arr[0][j] = 0;
+		}
+		for (size_t i{ 0 };i < a;++i)
+		{
+			arr[i][0] = 0;
 		}
 	}
 }
