@@ -2,6 +2,10 @@ class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& arr)
 {
+    //here we have to print matrix in spiral matrix
+    //approach used is checking direction traversed and printing based on that
+    //for example if our intial left direction is 0 then we will increase every time we
+    //traverse that direction and hence when we go in that direction again we can ignore already tranversed ones
     size_t m = arr.size();
     size_t n = arr[0].size();
     int left = 0, right = static_cast<int>(n) - 1;
