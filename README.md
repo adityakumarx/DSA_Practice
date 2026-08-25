@@ -96,6 +96,7 @@ This contains DSA questions that I solve...
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/adityakumarx/DSA_Practice/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/adityakumarx/DSA_Practice/tree/master/0048-rotate-image) |
 ## Prefix Sum
 |  |
