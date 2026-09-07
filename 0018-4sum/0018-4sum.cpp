@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<vector<int>> fourSum(vector<int>& arr,int target)
+    vector<vector<int>> fourSum(vector<int>& arr,int target)//similar to 3sum here we take i at 0 index j at i+j and then others like 3 sum
     {
         vector<vector<int>> result;
         std::sort(arr.begin(),arr.end());
