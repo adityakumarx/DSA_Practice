@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void merge(vector<int>& m,[[maybe_unused]]int l,vector<int>& n,[[maybe_unused]]int o)
+    void merge(vector<int>& m,int l,vector<int>& n,int o)
     {
         int i = l-1;
         int j = l+o-1;
