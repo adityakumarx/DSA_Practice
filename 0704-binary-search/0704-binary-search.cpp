@@ -2,41 +2,19 @@ class Solution{
     public:
     int search(vector<int>& arr,int target)
     {
-        int n = size(arr)-1;
-        if(n<=2)
-        {
-            for(int i = 0;i<=n;++i)
-            {
-                if(arr[i]==target)
-                return i;
-            }
-            return -1;
-        }
-        int index{-1};
         int low{0};
-        int high{n};
-        int mid{(low+high)/2};
-        while(low<mid && mid<high)
+        int n = (int)size(arr);
+        int high = n-1;
+        while(low<=high)
         {
-            if(arr[low]==target)
-            return low;
-            else if(arr[high]==target)
-            return high;
-            if(target==arr[mid])
-            {
-                index = mid;
-                break;
-            }
-            else if(target>arr[mid])
-            {
-                low = mid;
-                mid = (low+high)/2;
-            }
-            else{
-                high = mid;
-                mid = (low+high)/2;
-            }
+            int mid = (low+high)/2;
+            if(arr[mid]==target)
+            return mid;
+            else if(arr[mid]>target)
+            high = mid-1;
+            else
+            low = mid+1;
         }
-        return index;
+        return -1;
     }
 };
