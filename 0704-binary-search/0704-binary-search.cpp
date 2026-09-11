@@ -1,6 +1,6 @@
 class Solution{
     public:
-    int search(vector<int>& arr,int target)
+    int search(vector<int>& arr,int target)//timecomplexity here is o(logn)
     {
         int low{0};
         int n = (int)size(arr);
