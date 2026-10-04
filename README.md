@@ -52,6 +52,7 @@ This contains DSA questions that I solve...
 | [0540-single-element-in-a-sorted-array](https://github.com/adityakumarx/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adityakumarx/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/adityakumarx/DSA_Practice/tree/master/0704-binary-search) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityakumarx/DSA_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityakumarx/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -144,6 +145,7 @@ This contains DSA questions that I solve...
 | [0493-reverse-pairs](https://github.com/adityakumarx/DSA_Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityakumarx/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/adityakumarx/DSA_Practice/tree/master/0704-binary-search) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityakumarx/DSA_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Indexed Tree
 |  |
 | ------- |
