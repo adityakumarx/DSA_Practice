@@ -1,34 +1,38 @@
-class Solution {
-public:
-    int smallestDivisor(vector<int>& arr, int j) {
+class Solution
+{
+    public:
+    int sumofD(vector<int>& arr,int mid)
+    {
+        int sum{0};
+        for(int i=0;i<arr.size();++i)
+        {
+        sum+=ceil((double)arr[i]/(double)mid);
+        }
+        return sum;
+    }
+    int smallestDivisor(vector<int>& arr,int j)
+    {
         int low = 1;
-        int high = INT_MIN;
-        for (int k = 0;k < arr.size();++k)
+        int high = *max_element(arr.begin(),arr.end());
+        if(arr.size()==j)
+        return high;
+        long long total{0};
+        for(int num : arr)
         {
-            high = max(high, arr[(size_t)k]);
+            total+=num;
         }
-        if (j == arr.size())
-            return high;
-        int ans = high;
-        while (low <= high)
+        if(j>=total)
+        return 1;
+        while(low<=high)
         {
-            int mid = (low + high) / 2;
-            int temp{ 0 };
-            for (int i = 0;i < arr.size();++i)
+            int mid = (low+high)/2;
+            if(sumofD(arr,mid)<=j)
             {
-                if ((float)arr[(size_t)i] / mid > arr[(size_t)i] / mid)
-                    temp += arr[(size_t)i] / mid + 1;
-                else
-                    temp += arr[(size_t)i] / mid;
+                high=mid-1;
             }
-            if (temp > j)
-                low = mid + 1;
-            else if (temp <= j)
-            {
-                ans = min(mid, ans);
-                high = mid - 1;
-            }
+            else
+            low = mid+1;
         }
-        return ans;
+        return low;
     }
 };
