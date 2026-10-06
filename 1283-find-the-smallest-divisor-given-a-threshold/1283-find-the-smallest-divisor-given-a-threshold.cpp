@@ -1,38 +1,45 @@
 class Solution
 {
     public:
-    int sumofD(vector<int>& arr,int mid)
+    bool checkDivisor(vector<int>& arr,int j,int mid)
     {
         int sum{0};
-        for(int i=0;i<arr.size();++i)
+        for(int num : arr)
         {
-        sum+=ceil((double)arr[i]/(double)mid);
+            sum = sum + (num+mid-1)/mid;
+            if(sum>j)
+            return false;
         }
-        return sum;
+        if(sum<=j)
+        return true;
+        return false;
     }
     int smallestDivisor(vector<int>& arr,int j)
     {
         int low = 1;
-        int high = *max_element(arr.begin(),arr.end());
-        if(arr.size()==j)
-        return high;
+        int high = INT_MIN;
         long long total{0};
         for(int num : arr)
         {
             total+=num;
+            high = max(high,num);
         }
         if(j>=total)
         return 1;
+        if(j==arr.size())
+        return high;
+        int ans=INT_MAX;
         while(low<=high)
         {
-            int mid = (low+high)/2;
-            if(sumofD(arr,mid)<=j)
+            int mid=(low+high)/2;
+            if(checkDivisor(arr,j,mid))
             {
-                high=mid-1;
+            high = mid-1;
+            ans=mid;
             }
             else
             low = mid+1;
         }
-        return low;
+        return ans;
     }
 };
