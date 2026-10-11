@@ -30,6 +30,8 @@ class Solution{
                 {
                     b++;
                     temp=0;
+                    if(b>=m)
+                    break;
                 }
             }
             if(b>=m)
