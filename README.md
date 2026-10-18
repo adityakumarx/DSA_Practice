@@ -57,6 +57,7 @@ This contains DSA questions that I solve...
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityakumarx/DSA_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adityakumarx/DSA_Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/adityakumarx/DSA_Practice/tree/master/1539-kth-missing-positive-number) |
+| [2126-destroying-asteroids](https://github.com/adityakumarx/DSA_Practice/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityakumarx/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -81,6 +82,7 @@ This contains DSA questions that I solve...
 | [0088-merge-sorted-array](https://github.com/adityakumarx/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adityakumarx/DSA_Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adityakumarx/DSA_Practice/tree/master/0229-majority-element-ii) |
+| [2126-destroying-asteroids](https://github.com/adityakumarx/DSA_Practice/tree/master/2126-destroying-asteroids) |
 ## Quicksort
 |  |
 | ------- |
@@ -174,4 +176,8 @@ This contains DSA questions that I solve...
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/adityakumarx/DSA_Practice/tree/master/0493-reverse-pairs) |
+## Greedy
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/adityakumarx/DSA_Practice/tree/master/2126-destroying-asteroids) |
 <!---LeetCode Topics End-->
