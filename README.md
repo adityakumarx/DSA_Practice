@@ -136,6 +136,7 @@ This contains DSA questions that I solve...
 | [0007-reverse-integer](https://github.com/adityakumarx/DSA_Practice/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/adityakumarx/DSA_Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/adityakumarx/DSA_Practice/tree/master/0189-rotate-array) |
+| [2235-add-two-integers](https://github.com/adityakumarx/DSA_Practice/tree/master/2235-add-two-integers) |
 ## Prefix Sum
 |  |
 | ------- |
