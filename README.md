@@ -140,6 +140,7 @@ This contains DSA questions that I solve...
 | [0189-rotate-array](https://github.com/adityakumarx/DSA_Practice/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityakumarx/DSA_Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/adityakumarx/DSA_Practice/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/adityakumarx/DSA_Practice/tree/master/2469-convert-the-temperature) |
 ## Prefix Sum
 |  |
 | ------- |
