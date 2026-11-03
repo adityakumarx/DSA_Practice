@@ -25,6 +25,7 @@ This contains DSA questions that I solve...
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityakumarx/DSA_Practice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/adityakumarx/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/adityakumarx/DSA_Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adityakumarx/DSA_Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityakumarx/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -100,6 +101,7 @@ This contains DSA questions that I solve...
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adityakumarx/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/adityakumarx/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/adityakumarx/DSA_Practice/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/adityakumarx/DSA_Practice/tree/master/0493-reverse-pairs) |
@@ -153,6 +155,7 @@ This contains DSA questions that I solve...
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adityakumarx/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityakumarx/DSA_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityakumarx/DSA_Practice/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityakumarx/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
