@@ -19,6 +19,7 @@ This contains DSA questions that I solve...
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/adityakumarx/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/adityakumarx/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/adityakumarx/DSA_Practice/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/adityakumarx/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -77,6 +78,7 @@ This contains DSA questions that I solve...
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityakumarx/DSA_Practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/adityakumarx/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/adityakumarx/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adityakumarx/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/adityakumarx/DSA_Practice/tree/master/0169-majority-element) |
@@ -151,6 +153,7 @@ This contains DSA questions that I solve...
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/adityakumarx/DSA_Practice/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/adityakumarx/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/adityakumarx/DSA_Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/adityakumarx/DSA_Practice/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityakumarx/DSA_Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
