@@ -22,6 +22,7 @@ This contains DSA questions that I solve...
 | [0125-valid-palindrome](https://github.com/adityakumarx/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/adityakumarx/DSA_Practice/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/adityakumarx/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityakumarx/DSA_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -210,8 +211,10 @@ This contains DSA questions that I solve...
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/adityakumarx/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityakumarx/DSA_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/adityakumarx/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityakumarx/DSA_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
