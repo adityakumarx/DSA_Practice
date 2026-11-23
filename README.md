@@ -21,6 +21,7 @@ This contains DSA questions that I solve...
 | ------- |
 | [0125-valid-palindrome](https://github.com/adityakumarx/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/adityakumarx/DSA_Practice/tree/master/0205-isomorphic-strings) |
+| [1021-remove-outermost-parentheses](https://github.com/adityakumarx/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -205,4 +206,12 @@ This contains DSA questions that I solve...
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/adityakumarx/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [2126-destroying-asteroids](https://github.com/adityakumarx/DSA_Practice/tree/master/2126-destroying-asteroids) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/adityakumarx/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/adityakumarx/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
