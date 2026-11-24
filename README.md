@@ -19,6 +19,7 @@ This contains DSA questions that I solve...
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/adityakumarx/DSA_Practice/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/adityakumarx/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/adityakumarx/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/adityakumarx/DSA_Practice/tree/master/0205-isomorphic-strings) |
