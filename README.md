@@ -156,6 +156,7 @@ This contains DSA questions that I solve...
 | [0007-reverse-integer](https://github.com/adityakumarx/DSA_Practice/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/adityakumarx/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/adityakumarx/DSA_Practice/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/adityakumarx/DSA_Practice/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/adityakumarx/DSA_Practice/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityakumarx/DSA_Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/adityakumarx/DSA_Practice/tree/master/2235-add-two-integers) |
@@ -221,4 +222,8 @@ This contains DSA questions that I solve...
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/adityakumarx/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityakumarx/DSA_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/adityakumarx/DSA_Practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
