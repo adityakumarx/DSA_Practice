@@ -6,6 +6,7 @@ This contains DSA questions that I solve...
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityakumarx/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/adityakumarx/DSA_Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adityakumarx/DSA_Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityakumarx/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -19,6 +20,7 @@ This contains DSA questions that I solve...
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityakumarx/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/adityakumarx/DSA_Practice/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/adityakumarx/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/adityakumarx/DSA_Practice/tree/master/0125-valid-palindrome) |
@@ -127,6 +129,7 @@ This contains DSA questions that I solve...
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityakumarx/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/adityakumarx/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/adityakumarx/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityakumarx/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -226,4 +229,8 @@ This contains DSA questions that I solve...
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/adityakumarx/DSA_Practice/tree/master/0050-powx-n) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityakumarx/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
