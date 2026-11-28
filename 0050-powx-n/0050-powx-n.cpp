@@ -1,42 +1,19 @@
 class Solution {
 public:
-    long double oddPow(long double x,int n){
-        if(n==1)
-        return x;
-        else if(n>0)
-        return x*evenPow(x,n-1);
-        else if(n==-1)
-        return 1/x;
-        else if(n<0)
-        return 1/x*evenPow(x,n+1);
-        return 1;
-    }
-    long double evenPow(long double x,int n){
-        if(n==1)
-        return x;
-        else if(n%2!=0)
-        return oddPow(x,n);
-        else if(n>0){
-            long double half= evenPow(x,n/2);
-        return half*half;
+    double myPow(double x, int n) {
+        long long nn = n;
+        if(nn<0){
+        nn*=-1;
         }
-        else if(n==-1)
-        return 1/x;
-        else if(n<0){
-            long double half=evenPow(x,n/2);
-        return half*half;
-        }
-        return 1;
+        double ans=powSolve(x,nn);
+        return (n<0)?1.0/ans:ans;
     }
-    long double myPow(long double x, int n) {
+    double powSolve(double x,long long n){
         if(n==0)
         return 1;
-        else if(x==1 || x==0)
-        return x;
-        else if(n%2==0)
-        return evenPow(x,n);
-        else if(n%2!=0)
-        return oddPow(x,n);
-        return -1;
+        double half = powSolve(x,n/2);
+        if(n%2)
+        return half*half*x;
+        return half*half;
     }
 };
