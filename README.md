@@ -27,6 +27,7 @@ This contains DSA questions that I solve...
 | [0205-isomorphic-strings](https://github.com/adityakumarx/DSA_Practice/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/adityakumarx/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityakumarx/DSA_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/adityakumarx/DSA_Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Array
 |  |
 | ------- |
@@ -88,6 +89,7 @@ This contains DSA questions that I solve...
 | [0205-isomorphic-strings](https://github.com/adityakumarx/DSA_Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/adityakumarx/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/adityakumarx/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/adityakumarx/DSA_Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -121,6 +123,7 @@ This contains DSA questions that I solve...
 | ------- |
 | [0169-majority-element](https://github.com/adityakumarx/DSA_Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adityakumarx/DSA_Practice/tree/master/0229-majority-element-ii) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/adityakumarx/DSA_Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
